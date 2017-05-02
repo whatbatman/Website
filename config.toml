@@ -1,0 +1,6 @@
+baseURL = "http://ctfaday.com"
+languageCode = "en-us"
+title = "CTF A Day"
+theme = "docdock"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
